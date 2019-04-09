@@ -1,0 +1,4 @@
+required = [
+    "github.com/gorilla/websocket",
+    "golang.org/x/sys/unix",
+]
